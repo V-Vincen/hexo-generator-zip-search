@@ -1,15 +1,15 @@
-# hexo-generator-searchzip
+# hexo-generator-zipsearch
 
 > Ported Plugin of hexo-generator-search-zip, Thank SuperKieran for designing such a flawless plugin.
 > I modified part of the content from the hexo-generator-search-zip.
 
-[![npm](https://img.shields.io/npm/v/hexo-generator-searchzip.svg)](https://www.npmjs.com/package/hexo-generator-searchzip)
-[![npm](https://img.shields.io/npm/dm/hexo-generator-searchzip.svg)](https://www.npmjs.com/package/hexo-generator-searchzip)
+[![npm](https://img.shields.io/npm/v/hexo-generator-zipsearch.svg)](https://www.npmjs.com/package/hexo-generator-zipsearch)
+[![npm](https://img.shields.io/npm/dm/hexo-generator-zipsearch.svg)](https://www.npmjs.com/package/hexo-generator-zipsearch)
 
 Generate zip search data for Hexo 3.0. This plugin is used for generating a search index file, which contains all the neccessary data of your articles that you can use to write a local search engine for your blog.
 
 - [Demo](https://v-vincen.life/) - try out the search engine in this site's navigation bar.
-- [Demo Zip output](https://github.com/V-Vincen/hexo-generator-searchzip/blob/master/output/search.fiv)
+- [Demo Zip output](https://github.com/V-Vincen/hexo-generator-zipsearch/blob/master/output/search.flv)
 
 ## Guide
 https://v-vincen.life/
