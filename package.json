@@ -1,5 +1,5 @@
 {
-    "name": "hexo-generator-zipsearch",
+    "name": "hexo-generator-zip-search",
     "version": "0.0.1",
     "description": "Seach Zip generator plugin for Hexo",
     "main": "index.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/V-Vincen/hexo-generator-zipsearch.git"
+        "url": "git+https://github.com/V-Vincen/hexo-generator-zip-search.git"
     },
     "keywords": [
         "hexo",
@@ -19,7 +19,14 @@
     "author": "v-vincen",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/V-Vincen/hexo-generator-zipsearch/issues"
+        "url": "https://github.com/V-Vincen/hexo-generator-zip-search/issues"
     },
-    "homepage": "https://github.com/V-Vincen/hexo-generator-zipsearch#readme"
+    "homepage": "https://github.com/V-Vincen/hexo-generator-zip-search#readme",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "archiver": "^4.0.1"
+    },
+    "devDependencies": {}
 }
